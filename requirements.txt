@@ -6,3 +6,4 @@ keras
 keras.models
 matplotlib
 yfinance
+load_model
