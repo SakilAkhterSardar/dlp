@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import tensorflow.keras.models 
-#from keras import load_model
+from keras.models import load_model
 import matplotlib.pyplot as plt
 import yfinance as yf
 
