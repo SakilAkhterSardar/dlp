@@ -2,8 +2,8 @@ streamlit
 pandas
 numpy
 tensorflow
-keras
+keras.models.load_model
 keras.models
 matplotlib
 yfinance
-load_model
+
