@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-tensorflow
+models
 matplotlib
 yfinance
